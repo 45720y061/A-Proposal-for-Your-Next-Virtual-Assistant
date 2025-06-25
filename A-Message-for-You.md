@@ -1,8 +1,8 @@
 # A Message for You
 
-Hi [Target's Name],
+Hi Yehoshua,
 
-What you're doing — connecting Israeli tech with the Latin American market — isn’t simple. You’re juggling time zones, communication gaps, and the kind of operational chaos that comes with building across continents.
+What you're doing isn’t simple. You’re juggling time zones, communication gaps, and the kind of operational chaos that comes with building across continents.
 
 That’s exactly the kind of work I support.
 
@@ -12,7 +12,8 @@ I’m based in Peru, so I know the LatAm business environment firsthand. I’m f
 
 This repository is a snapshot of how I work. It includes examples, not fluff.
 
-If what you need is someone who can quietly make your operation faster, cleaner, and easier to manage — I’d like to talk.
+If what you need is someone who can quietly make your operation faster, cleaner, and easier to manage.
+I’d like to talk.
 
 Best,  
 **Italo Argote**
